@@ -1,0 +1,12 @@
+pool.json
+*.log
+gw_key.txt
+vani_key.txt
+acc_token.txt
+imap_pass.txt
+k2c.txt
+js/
+chunks.txt
+login.html
+vani_accounts.jsonl
+__pycache__/
